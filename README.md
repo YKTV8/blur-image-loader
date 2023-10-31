@@ -14,3 +14,9 @@ Clone the repository onto you local machine and include the HTML, CSS, JS files 
 ## Purpose
 
 Client wanted to see different options for includeing a loading page to the landing page in order to create a unique UX. Project was created as an mock up for a proposed example. 
+
+## License
+This project is licensed under the MIT license - see the LICENSE.md file for details. 
+
+## Contributing
+Feel free to contribute to this project by opening issues or pull request. 
